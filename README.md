@@ -1,16 +1,42 @@
-## Hi there 👋
+# Augnera
 
-<!--
-**augnera/augnera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Amplifying human intelligence with AI.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Augnera is an AI company focused on enhancing human intelligence through software systems.
+
+We build tools and systems that help people:
+
+- Understand information faster  
+- Create content more efficiently  
+- Execute tasks with higher leverage  
+
+---
+
+## Products
+
+### Aieditflow
+AI video editing system for faster content creation
+
+### StoryCut (Coming Soon)
+AI-powered content production system
+
+### AutoDebug (In Progress)
+AI system for automated debugging and self-repair
+
+---
+
+## Vision
+
+We believe AI is not about replacing humans, but amplifying them.
+
+Our goal is to make intelligence scalable.
+
+---
+
+## Links
+
+- Website: https://augnera.com
